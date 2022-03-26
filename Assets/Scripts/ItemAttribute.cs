@@ -8,4 +8,8 @@ public class itemAttribute : MonoBehaviour
     public Sprite itemSprite;
     public int amount;
     public bool stackable;
+
+
+    
+
 }

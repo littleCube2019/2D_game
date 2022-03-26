@@ -43,9 +43,11 @@
      <Compile Include="Assets\Scripts\CharacterController2D.cs" />
      <Compile Include="Assets\Scripts\main_camera.cs" />
      <Compile Include="Assets\Scripts\cycular_transition.cs" />
+     <Compile Include="Assets\Scripts\Inventory.cs" />
      <Compile Include="Assets\Scripts\BlockCollection.cs" />
      <Compile Include="Assets\Scripts\terrian_generator.cs" />
-     <Compile Include="Assets\Scripts\Inventory.cs" />
+     <Compile Include="Assets\Scripts\plant\platn_scriptable_object\plant_object.cs" />
+     <Compile Include="Assets\Scripts\plant\plant.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
